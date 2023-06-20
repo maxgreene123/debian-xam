@@ -1,3 +1,4 @@
 feh --bg-scale /home/$username/Pictures/Wallpaper.jpeg &
 picom &
+slstatus &
 exec dwm
