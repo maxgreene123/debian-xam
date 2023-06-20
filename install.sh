@@ -16,7 +16,7 @@ apt upgrade -y
 # Install nala
 apt install nala -y
 
-# Making .config and Moving config files and background to Pictures
+# Making config files and movin background to Pictures
 cd $builddir
 mkdir -p /home/$username/.fonts
 mkdir -p /home/$username/Pictures
